@@ -38,3 +38,31 @@
 - Tasks 9
   Duplicate last line
   Write a script that duplicates the last line of the file iacta.
+
+- Tasks 10
+  No more javascript
+  Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the c  urrent directory and all its subfolders.
+
+- Tasks 11
+  Don't just count your directories, make your directories count
+  Write a script that counts the number of directories and sub-directories in the current directory.
+
+- Tasks 12
+  What’s new
+  Create a script that displays the 10 newest files in the current directory.
+
+- Tasks 13
+   Being unique is better than being perfect
+   Create a script that takes a list of words as input and prints only words that appear exactly once.
+
+- Tasks 14 
+  It must be in that file
+  Display lines containing the pattern “root” from the file /etc/passwd.
+
+- Tasks 15 
+  Count that word
+  Display the number of lines that contain the pattern “bin” in the file /etc/passwd.
+
+- Tasks 16
+  What's next?
+  Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
