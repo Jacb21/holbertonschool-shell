@@ -1,2 +1,2 @@
 #!/bin/bash
-find */ $USER | wc
+ls | wc -l
