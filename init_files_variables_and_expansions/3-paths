@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type d $USER | wc -l
+find $USER -type d | wc -l
