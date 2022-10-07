@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $USER */ | wc -l
+find $USER */ | echo | wc -l
